@@ -29,6 +29,8 @@ Pour utiliser le script, clonez le dépôt et donnez-lui les droits d'exécution
 ```bash
 git clone https://github.com/Ehavox/Back-Upload.git
 cd Back-Upload
+apt install dos2unix
+dos2unix BackUpload_by_Ehavox.sh
 chmod +x back-upload.sh
 ./back-upload.sh
 
