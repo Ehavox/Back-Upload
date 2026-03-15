@@ -31,8 +31,9 @@ git clone https://github.com/Ehavox/Back-Upload.git
 cd Back-Upload
 apt install dos2unix
 dos2unix BackUpload_by_Ehavox.sh
-chmod +x back-upload.sh
-./back-upload.sh
+
+chmod +x BackUpload_by_Ehavox.sh
+./BackUpload_by_Ehavox.sh
 
 ```
 
